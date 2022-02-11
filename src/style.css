@@ -1,0 +1,20 @@
+*{
+    padding: o;
+    margin: 0;
+}
+
+#wrapper{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.main{
+    width: 40%;
+    background-color: RED;
+    padding: 5%;
+}
+#circle{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
